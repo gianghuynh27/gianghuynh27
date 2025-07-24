@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I am Giang(jee-aang), a CS graduate and a passionate developer who loves to build practical web solutions using Java and Python. I am experienced with REST APIs, SQL, and modern software design principles. I am currently working on personal projects to land my first tech job and always open to learning new tech.
+I am Giang (jee-aang), a CS graduate and a passionate developer who loves to build practical web solutions using Java and Python. I am experienced with REST APIs, SQL, and modern software design principles. I am currently working on personal projects to land my first tech job and always open to learning new tech.
 ### 🔭 What do I do and what have I done?
 - Mentor at CoderSchool Vietnam to 2 students understand fundamentals concepts in Computer Science by utilizing CS50 curriculum.
 - Intern at American National Insurance as a web developer.
