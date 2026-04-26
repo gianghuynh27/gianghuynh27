@@ -6,7 +6,6 @@ I am Giang (jee-aang), a CS graduate and a passionate developer who loves to bui
 ### ⚡ Fun fact
 - I have a mild addiction to H.E.B.
 ### 📫 How to reach me?
-- [X](https://x.com/Gianghuynh27)
 - [LinkedIn](https://www.linkedin.com/in/giang-huynh-81968a161/)
 ### 💬 Ask me about
 You can ask me about anything. I am always looking forward to new knowledge, new experiences, new "codemates".
